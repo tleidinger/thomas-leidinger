@@ -8,7 +8,7 @@ I do have a passion for agile software development with a healthy dose of pragma
 
   📝  Ex-CTO of Statista, Xoogler
 
-$> ls about/
+## $> ls about/
   🛠  Experienced in PHP, Java, Flutter, AWS, GCS
 
   👨‍💻  B.Sc. in Computer Science
