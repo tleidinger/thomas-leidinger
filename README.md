@@ -16,4 +16,4 @@ I do have a passion for agile software development with a healthy dose of pragma
   ❤️  100% driven by passion and ☕
 
 ## $> touch contact.me
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/leidinger/). You're oldschool? Alright, shoot me an Email and I'll get back to you.
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/leidinger/). You're oldschool? Alright, shoot me an [Email](https://docs.google.com/forms/d/e/1FAIpQLSeuYYkutpZZjna8QXTjvBObTHzokzi7JqAZIg9R_bD7M54xeQ/viewform) and I'll get back to you.
